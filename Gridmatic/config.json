@@ -1,0 +1,11 @@
+{
+	"url": {
+		"NYISO": "http://mis.nyiso.com/public/csv/pal/",
+		"NOAA": "https://www.ncei.noaa.gov/data/global-forecast-system/access/grid-003-1.0-degree/forecast/"
+	},
+	
+	"DB": {
+		"HDFS": "~/hdfs",
+		"General": "~/Desktop/database/"
+	}
+}
